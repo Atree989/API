@@ -6,7 +6,7 @@
 Write a separate program and visualize the data it gets. This program will use the web application interface to automatically 
 request specific information about the site and then visualize that information.
 
-#################################################################################################
+################################################################################################
 
 Github的API让你能够通过API调用来请求各种信息。
 
